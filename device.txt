@@ -1,0 +1,3 @@
+List of devices attached
+ZY22286PLV	device
+

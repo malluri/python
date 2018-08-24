@@ -1,0 +1,14 @@
+adb key inputs
+https://stackoverflow.com/questions/7789826/adb-shell-input-events
+https://developer.android.com/reference/android/view/KeyEvent.html#KEYCODE_2
+
+adb dumpsys:
+http://androidcustomromdevelopment.blogspot.in/2017/03/dumpsys-commands-in-android.html
+
+Practice :
+Bluetooth
+Wifi
+Camera
+SMS
+Calls
+Media 
